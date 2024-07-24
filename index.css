@@ -49,15 +49,13 @@ form input {
 input:hover {
     background-color: #444;
 }
-
 #btn1 {
     width: 100%;
     height: 44px;
-    background-color: #ff0000;
+    background-color: #e50914;
     color: #ffffff;
     border-radius: 4px;
     font-weight: 500;
-    
 }
 form p {
     margin-left: 123px;
@@ -68,10 +66,11 @@ form p {
     width: 100%;
     height: 44px;
     color: #ffffff;
-    background-color: #5d5757;
+    background-color: #3e3e3e;
     border-radius: 4px;
     border-color: rgba(0, 0, 0, 0);
     font-weight: 500;
+    border-style: solid;
 }
 footer {
     background-color: black;
@@ -93,13 +92,4 @@ form a {
 }
 a:hover {
     text-decoration: underline;
-}
-#checkbox {
-    color: white;
-    width: 15px;
-}
-
-form div {
-    display: flex;
-    justify-content: center;
 }
