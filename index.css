@@ -83,3 +83,7 @@ form a {
 a:hover {
     text-decoration: underline;
 }
+#checkbox {
+    color: white;
+    width: 15px;
+}
