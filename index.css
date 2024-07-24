@@ -7,6 +7,12 @@
     font-family: "Roboto", sans-serif;
     
 }
+header img {
+    width: 250px;
+    margin: -8px 0px 0px -16px;
+    padding: 24px 32px;
+    margin-left: 100px;
+}
 body {
     background-color: rgb(0, 0, 0);
     background: url(Imagens/background.jpg);
@@ -54,7 +60,7 @@ input:hover {
     
 }
 form p {
-    margin-left: 106px;
+    margin-left: 123px;
     padding: 15px;
     color: white;
 }
@@ -73,6 +79,11 @@ footer {
     height: 500px;
     font-size: 16px;
 }
+footer p {
+    margin-left: 720px;
+    display: flex;
+    align-items: center;
+}
 form a {
     color: white;
     text-decoration: none;
@@ -86,4 +97,9 @@ a:hover {
 #checkbox {
     color: white;
     width: 15px;
+}
+
+form div {
+    display: flex;
+    justify-content: center;
 }
