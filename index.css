@@ -103,6 +103,14 @@ label {
     justify-items: center;
     gap: 4px;
 }
+.descricao-final {
+    margin-top: 8px;
+    & p {
+        padding: 0px;
+        margin: 0px;
+        font-size: 15px;
+    }
+}
 .sign-up {
     margin-left: 8px;
     margin-bottom: 30px;
